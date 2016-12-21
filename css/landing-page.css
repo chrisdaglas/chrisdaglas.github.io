@@ -1,8 +1,3 @@
-/*
- * Start Bootstrap - Landing Page (http://startbootstrap.com/)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
 
 body,
 html {
@@ -102,14 +97,15 @@ h6 {
     padding: 50px 0;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
-   background: rgba(255,255,255,1);
-background: -moz-linear-gradient(left, rgba(255,255,255,1) 37%, rgba(247,247,247,1) 46%, rgba(246,246,246,1) 47%, rgba(193,195,235,1) 100%);
-background: -webkit-gradient(left top, right top, color-stop(37%, rgba(255,255,255,1)), color-stop(46%, rgba(247,247,247,1)), color-stop(47%, rgba(246,246,246,1)), color-stop(100%, rgba(193,195,235,1)));
-background: -webkit-linear-gradient(left, rgba(255,255,255,1) 37%, rgba(247,247,247,1) 46%, rgba(246,246,246,1) 47%, rgba(193,195,235,1) 100%);
-background: -o-linear-gradient(left, rgba(255,255,255,1) 37%, rgba(247,247,247,1) 46%, rgba(246,246,246,1) 47%, rgba(193,195,235,1) 100%);
-background: -ms-linear-gradient(left, rgba(255,255,255,1) 37%, rgba(247,247,247,1) 46%, rgba(246,246,246,1) 47%, rgba(193,195,235,1) 100%);
-background: linear-gradient(to right, rgba(255,255,255,1) 37%, rgba(247,247,247,1) 46%, rgba(246,246,246,1) 47%, rgba(193,195,235,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#c1c3eb', GradientType=1 );
+    background: rgba(255,255,255,1);
+    background: -moz-linear-gradient(left, rgba(255,255,255,1) 37%, rgba(247,247,247,1) 46%, rgba(246,246,246,1) 47%, rgba(193,195,235,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(37%, rgba(255,255,255,1)), color-stop(46%, rgba(247,247,247,1)), color-stop(47%, rgba(246,246,246,1)), color-stop(100%, rgba(193,195,235,1)));
+    background: -webkit-linear-gradient(left, rgba(255,255,255,1) 37%, rgba(247,247,247,1) 46%, rgba(246,246,246,1) 47%, rgba(193,195,235,1) 100%);
+    background: -o-linear-gradient(left, rgba(255,255,255,1) 37%, rgba(247,247,247,1) 46%, rgba(246,246,246,1) 47%, rgba(193,195,235,1) 100%);
+    background: -ms-linear-gradient(left, rgba(255,255,255,1) 37%, rgba(247,247,247,1) 46%, rgba(246,246,246,1) 47%, rgba(193,195,235,1) 100%);
+    background: linear-gradient(to right, rgba(255,255,255,1) 37%, rgba(247,247,247,1) 46%, rgba(246,246,246,1) 47%, rgba(193,195,235,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#c1c3eb', GradientType=1 );
+  
 }
 
 .section-heading {
